@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Convex
+.env.local
+.env*.local
+
+# Build outputs
+dist/
+.expo/
+
+# Lockfile (optional: some teams commit it)
+# bun.lockb
