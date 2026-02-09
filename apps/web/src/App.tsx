@@ -1,10 +1,7 @@
-function App() {
-  return (
-    <div>
-      <h1>Safe Spot</h1>
-      <p>Configuração de vagas</p>
-    </div>
-  )
+import { ComponentExample } from "@/components/component-example";
+
+export function App() {
+return <ComponentExample />;
 }
 
-export default App
+export default App;
